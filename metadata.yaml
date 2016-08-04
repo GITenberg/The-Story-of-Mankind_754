@@ -1,0 +1,49 @@
+_repo: The-Story-of-Mankind_754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Loon, Hendrik Willem
+    alias: Loon, Hendrik Willem Van
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '392'
+    url: http://www.gutenberg.org/2009/agents/392
+    wikipedia: http://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon
+description: "The Story of Mankind was written and illustrated by Dutch-American journalist,\
+  \ professor, and author Hendrik Willem van Loon and published in 1921. In 1922,\
+  \ it was the first book to be awarded the Newbery Medal for an outstanding contribution\
+  \ to children's literature.\nWritten for his children (Hansje and Willem), The Story\
+  \ of Mankind tells in brief chapters the history of western civilization beginning\
+  \ with primitive man, covering the development of writing, art, and architecture,\
+  \ the rise of major religions, and the formation of the modern nation-state. Van\
+  \ Loon explains in the book how he selected what and what not to include by subjecting\
+  \ all materials to the question: Did the person or event in question perform an\
+  \ act without which the entire history of civilization would have been different?\n\
+  After the book's first edition, Van Loon published another edition later in the\
+  \ 1920s which included an extra essay, called \"After Seven Years\", about the effects\
+  \ of World War I. Since Van Loon's death in 1944, The Story of Mankind has been\
+  \ added to extensively by his son, Gerrit van Loon. The most recent version by John\
+  \ M. Merriman (1999) covers events up to the late 1990s (ISBN 9780871401755).\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's History
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '754'
+  wikidata: Q13802568
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World history -- Juvenile literature'
+- !lcsh 'World history'
+- !lcc 'D'
+- GITenberg
+title: The Story of Mankind
+url: http://www.gutenberg.org/ebooks/754
+wikipedia:
+- https://simple.wikipedia.org/wiki/The_Story_of_Mankind
+- https://en.wikipedia.org/wiki/The_Story_of_Mankind
